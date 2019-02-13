@@ -11,4 +11,4 @@ Windows:
 
 Linux: 
  
- You must have g++ installed on your system.
+ -> You must have g++ installed on your system.
